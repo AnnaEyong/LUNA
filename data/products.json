@@ -1,0 +1,182 @@
+[
+  {
+    "id": "necklace-sol",
+    "name": "Sol Pendant Necklace",
+    "category": "necklace",
+    "colors": ["gold", "white"],
+    "price": 68,
+    "image": "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "necklace-tide",
+    "name": "Tide Shell Necklace",
+    "category": "necklace",
+    "colors": ["gold", "white"],
+    "price": 54,
+    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "necklace-arc",
+    "name": "Arc Chain Necklace",
+    "category": "necklace",
+    "colors": ["gold", "brown"],
+    "price": 72,
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "necklace-pearl",
+    "name": "Freshwater Pearl Strand",
+    "category": "necklace",
+    "colors": ["white", "gold"],
+    "price": 86,
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=900&q=85",
+    "inStock": false
+  },
+  {
+    "id": "necklace-cove",
+    "name": "Cove Beaded Necklace",
+    "category": "necklace",
+    "colors": ["brown", "blue"],
+    "price": 48,
+    "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "necklace-luna",
+    "name": "Luna Layered Necklace",
+    "category": "necklace",
+    "colors": ["silver", "white"],
+    "price": 78,
+    "image": "https://images.unsplash.com/photo-1611085583191-a3b181a88401?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "necklace-dune",
+    "name": "Dune Stone Necklace",
+    "category": "necklace",
+    "colors": ["brown", "gold"],
+    "price": 62,
+    "image": "https://images.unsplash.com/photo-1617038260897-41a1f14a8ca0?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "earring-orbit",
+    "name": "Orbit Hoop Earrings",
+    "category": "earring",
+    "colors": ["gold", "silver"],
+    "price": 42,
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "earring-pearl",
+    "name": "Pearl Drop Earrings",
+    "category": "earring",
+    "colors": ["white", "gold"],
+    "price": 46,
+    "image": "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "earring-sculpt",
+    "name": "Sculpted Stud Earrings",
+    "category": "earring",
+    "colors": ["gold"],
+    "price": 38,
+    "image": "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "earring-tide",
+    "name": "Tide Glass Earrings",
+    "category": "earring",
+    "colors": ["blue", "silver"],
+    "price": 44,
+    "image": "https://images.unsplash.com/photo-1611652022419-a9419f74343d?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "earring-amber",
+    "name": "Amber Mini Hoops",
+    "category": "earring",
+    "colors": ["brown", "gold"],
+    "price": 40,
+    "image": "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=900&q=85",
+    "inStock": false
+  },
+  {
+    "id": "earring-crescent",
+    "name": "Crescent Huggie Earrings",
+    "category": "earring",
+    "colors": ["silver", "gold"],
+    "price": 36,
+    "image": "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "earring-sunrise",
+    "name": "Sunrise Resin Earrings",
+    "category": "earring",
+    "colors": ["brown", "white"],
+    "price": 34,
+    "image": "https://images.unsplash.com/photo-1611085583191-a3b181a88401?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "top-linen-shirt",
+    "name": "Linen Weekend Shirt",
+    "category": "top",
+    "colors": ["white", "blue"],
+    "price": 88,
+    "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "top-ribbed-tank",
+    "name": "Ribbed Cotton Tank",
+    "category": "top",
+    "colors": ["white", "brown"],
+    "price": 42,
+    "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "top-wrap-blouse",
+    "name": "Soft Wrap Blouse",
+    "category": "top",
+    "colors": ["white", "brown"],
+    "price": 76,
+    "image": "https://images.unsplash.com/photo-1551163943-3f6a855d1153?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "top-sunday-knit",
+    "name": "Sunday Knit Top",
+    "category": "top",
+    "colors": ["brown", "white"],
+    "price": 64,
+    "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  },
+  {
+    "id": "top-cloud-tee",
+    "name": "Cloud Cotton Tee",
+    "category": "top",
+    "colors": ["white", "blue"],
+    "price": 38,
+    "image": "https://images.unsplash.com/photo-1566206091558-7f218b696731?auto=format&fit=crop&w=900&q=85",
+    "inStock": false
+  },
+  {
+    "id": "top-dune-cardigan",
+    "name": "Dune Cropped Cardigan",
+    "category": "top",
+    "colors": ["brown", "white"],
+    "price": 92,
+    "image": "https://images.unsplash.com/photo-1566206091558-7f218b696731?auto=format&fit=crop&w=900&q=85",
+    "inStock": true
+  }
+]
